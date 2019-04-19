@@ -1,4 +1,4 @@
-public class Demo{
+public class Secret{
 	
 	@Test
 	public void funa(){
